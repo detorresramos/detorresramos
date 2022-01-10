@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @detorresramos
 - 👀 I’m interested in ...
-  - Tech startups, both product focused and tech focused
+  - Startups
   - Product Management
   - Research in AI/ML, Algorithms, or Distrubuted Computing
   - Data Science Projects
