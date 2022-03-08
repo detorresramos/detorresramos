@@ -6,9 +6,8 @@
   - Data Science Projects
   - Any other cool ideas!
 - 🌱 I’m currently learning ...
-  - Research in advanced hashing techniques for ML optimization, graph reordering, and embedding table compression
+  - Research in advanced hashing techniques for ML optimization, image processing, and embedding table compression
   - Fullstack web development and architecture
-  - Practical and theoretical background on Machine Learning
 - 📫 How to reach me ...
   - Email: det4@rice.edu
   - Phone: (210) 867-2858
