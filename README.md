@@ -1,13 +1,1 @@
-- 👋 Hi, I’m @detorresramos
-- 👀 I’m interested in ...
-  - Startups
-  - Product Management
-  - Research in AI/ML, Algorithms, or Distrubuted Computing
-  - Data Science Projects
-  - Any other cool ideas!
-- 🌱 I’m currently learning ...
-  - Research in advanced hashing techniques for ML optimization, image processing, and embedding table compression
-  - Fullstack web development and architecture
-- 📫 How to reach me ...
-  - Email: det4@rice.edu
-  - Phone: (210) 867-2858
+Rice graduate, currently working at ThirdAI Corp. Interested in foundational ML and systems research and startup culture. Feel free to reach out at: detorresramos1@gmail.com
